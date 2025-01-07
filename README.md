@@ -1,5 +1,5 @@
 <h1>Welcome to my GitHub Profile!</h1>
-<p>I'm Zainab, Android Developer from <img  src="https://flagcdn.com/w20/pk.png"  width="20"/> <b>Pakistan</b>. Aspiring software learner with a strong desire to develop desktop and graphical user applications. Possesses exceptional creative and analytical skills.
+<p>I'm Zainab, Android Developer and AI engineer from <img  src="https://flagcdn.com/w20/pk.png"  width="20"/> <b>Pakistan</b>. Aspiring software learner with a strong desire to develop desktop and graphical user applications. Possesses exceptional creative and analytical skills.
 
 <h3>Things I code with</h3>
 
